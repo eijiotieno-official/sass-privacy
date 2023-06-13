@@ -1,4 +1,4 @@
-This Privacy Policy describes how [Your Company Name] ("we," "us," or "our") collects, uses, shares, and protects the personal information of users ("you" or "users") of our dating Google Android app (the "App"). We are committed to protecting your privacy and ensuring the security of your personal information. By using the App, you agree to the collection and use of your personal information as described in this Privacy Policy.
+This Privacy Policy describes how SASS collects, uses, shares, and protects the personal information of users of our dating Google Android app. We are committed to protecting your privacy and ensuring the security of your personal information. By using the App, you agree to the collection and use of your personal information as described in this Privacy Policy.
 
 Information We Collect:
 1.1 Personal Information:
